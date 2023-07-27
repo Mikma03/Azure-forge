@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "DataLoadToAzureSQLDW", "..\..\SSIS_MigrateToAzure.dtproj", "{CA43FAF6-B9EA-4EF1-91F5-2B71C85AE5E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA43FAF6-B9EA-4EF1-91F5-2B71C85AE5E7}.Development|Default.ActiveCfg = Development
+		{CA43FAF6-B9EA-4EF1-91F5-2B71C85AE5E7}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8D7B109-0BF4-4AE9-9271-03C97BCEDFB8}
+	EndGlobalSection
+EndGlobal
